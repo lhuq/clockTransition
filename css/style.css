@@ -1,0 +1,23 @@
+
+
+#gallery {
+	border: solid 5px black;
+}
+
+.clock-transition  {
+	position: relative;
+}
+
+.clock-transition img {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	display: none;
+}
+
+
+.clock-transition canvas {
+	position: absolute;
+	top: 0px;
+	left: 0px;	
+}
